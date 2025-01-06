@@ -20,8 +20,8 @@
     "gh-pages": "^2.0.1",
     "parse-github-url": "^1.0.2",
     "remote-origin-url": "^1.0.0",
-    "webpack": "^4.23.1",
-    "webpack-cli": "^3.1.2",
+    "webpack": "^4.47.0",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.1.10"
   },
   "scripts": {
